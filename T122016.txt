@@ -1,0 +1,48 @@
+T12/2016
+
+md1: 
+1-1
+2-4
+3-2
+4-1
+5-2
+6-1x2
+
+md2;
+1-taisao lai thich -3x2
+2-jinzai lo lang gi -2x4
+3-kikake la gi -2x4
+4-de la gi -3
+5-tot nhat laf gi -4
+6-nhin lai tot nhat -2x1
+7-nu, tai sao -3x 2
+
+md3:
+1-4x2
+2-4
+3-4x2
+4-3
+5-2x1
+6-3x2
+
+md4:
+1-1x2
+2-3
+3-3x2
+4-2x3
+5-1
+6-3
+7-3
+8-1x2
+9-1
+10-2
+11-2x3
+12-1
+13-2
+14-3
+
+md5;
+1-2
+2-2
+3-1
+4-4x2
