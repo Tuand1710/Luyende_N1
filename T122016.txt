@@ -6,7 +6,7 @@ md1:
 3-2
 4-1
 5-2
-6-1x2
+6-1x2 
 
 md2;
 1-taisao lai thich -3x2
